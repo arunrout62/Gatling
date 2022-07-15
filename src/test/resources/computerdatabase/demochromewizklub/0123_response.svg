@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100.001" viewBox="0 0 100 100.001">
+  <g id="event-calendar-business-interface-symbol" transform="translate(0 -2.391)">
+    <g id="Group_19827" data-name="Group 19827" transform="translate(0 2.391)">
+      <path id="Path_57228" data-name="Path 57228" d="M98.312,20.895a2.748,2.748,0,0,0,2.734-2.756V5.147a2.748,2.748,0,0,0-2.734-2.756H95.968a2.748,2.748,0,0,0-2.734,2.756V18.139a2.748,2.748,0,0,0,2.734,2.756Z" transform="translate(-78 -2.391)" fill="#ff9823"/>
+      <path id="Path_57229" data-name="Path 57229" d="M361.281,20.895a2.748,2.748,0,0,0,2.734-2.756V5.147a2.748,2.748,0,0,0-2.734-2.756h-2.344A2.748,2.748,0,0,0,356.2,5.147V18.139a2.748,2.748,0,0,0,2.734,2.756Z" transform="translate(-298 -2.391)" fill="#ff9823"/>
+      <path id="Path_57230" data-name="Path 57230" d="M46.678,129.816a30.148,30.148,0,0,1-.584-5.905c0-.662.029-1.317.071-1.968H11.719a4.706,4.706,0,0,1-4.688-4.725v-37.8H74.219V94.031c.517-.027,1.038-.042,1.562-.042a29.469,29.469,0,0,1,5.469.517V63.674a6.275,6.275,0,0,0-6.25-6.3H69.922v6.693a6.674,6.674,0,0,1-6.641,6.693H60.938A6.674,6.674,0,0,1,54.3,64.068V57.375H26.953v6.693a6.674,6.674,0,0,1-6.641,6.693H17.969a6.674,6.674,0,0,1-6.641-6.693V57.375H6.25A6.275,6.275,0,0,0,0,63.674v59.843a6.275,6.275,0,0,0,6.25,6.3Z" transform="translate(0 -48.32)" fill="#ff9823"/>
+      <ellipse id="Ellipse_12971" data-name="Ellipse 12971" cx="6.202" cy="6.25" rx="6.202" ry="6.25" transform="translate(15.82 36.663)" fill="#ff9823"/>
+      <ellipse id="Ellipse_12972" data-name="Ellipse 12972" cx="6.202" cy="6.25" rx="6.202" ry="6.25" transform="translate(34.423 36.663)" fill="#ff9823"/>
+      <ellipse id="Ellipse_12973" data-name="Ellipse 12973" cx="6.202" cy="6.25" rx="6.202" ry="6.25" transform="translate(53.027 36.663)" fill="#ff9823"/>
+      <ellipse id="Ellipse_12974" data-name="Ellipse 12974" cx="6.201" cy="6.25" rx="6.201" ry="6.25" transform="translate(34.424 55.561)" fill="#ff9823"/>
+      <ellipse id="Ellipse_12975" data-name="Ellipse 12975" cx="6.201" cy="6.25" rx="6.201" ry="6.25" transform="translate(15.82 55.561)" fill="#ff9823"/>
+      <path id="Path_57231" data-name="Path 57231" d="M40.551,6.952a23.75,23.75,0,1,0,0,33.6A23.786,23.786,0,0,0,40.551,6.952Zm-2.271,9.031L21.92,34.843a1.979,1.979,0,0,1-2.8,0l-9.17-9.171a1.98,1.98,0,0,1,2.8-2.8l7.771,7.771L35.481,13.183a1.98,1.98,0,1,1,2.8,2.8Z" transform="translate(52.5 52.498)" fill="#ff9823"/>
+    </g>
+  </g>
+</svg>

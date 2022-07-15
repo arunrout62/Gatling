@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg1090"
+   sodipodi:docname="wiz-webdesign-icon.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata1094">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1792"
+     inkscape:window-height="959"
+     id="namedview1092"
+     showgrid="false"
+     inkscape:zoom="25.1"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1090" />
+  <defs
+     id="defs1073">
+    <clipPath
+       id="clip-path">
+      <rect
+         id="Rectangle_8480"
+         data-name="Rectangle 8480"
+         width="30"
+         height="30"
+         transform="translate(2.042 65.92)"
+         fill="none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-7">
+      <rect
+         id="Rectangle_8480-7"
+         data-name="Rectangle 8480"
+         width="30"
+         height="30"
+         transform="translate(2.042,65.92)"
+         fill="none"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="Group_18556-5"
+     data-name="Group 18556"
+     clip-path="url(#clip-path-7)"
+     transform="translate(-2.0425,-65.92)">
+    <path
+       id="Subtraction_51-9"
+       data-name="Subtraction 51"
+       d="m 14199,22145.115 h -24.82 a 1.143,1.143 0 0 1 -1.14,-1.145 v -14.906 a 1.143,1.143 0 0 1 1.14,-1.145 h 24.82 a 1.146,1.146 0 0 1 1.146,1.145 v 14.906 a 1.146,1.146 0 0 1 -1.146,1.145 z m -24.137,-11.5 v 0 7.869 h 10.382 v -7.869 z"
+       transform="translate(-14169.707,-22057.773)"
+       fill="#dddddd"
+       stroke="rgba(0,0,0,0)"
+       stroke-miterlimit="10"
+       stroke-width="1"
+       style="fill:#f9d5bc;fill-opacity:1" />
+    <path
+       id="Path_68010-9"
+       data-name="Path 68010"
+       d="M 29.452,87.842 H 4.633 A 1.646,1.646 0 0 1 2.99,86.2 V 71.291 a 1.646,1.646 0 0 1 1.643,-1.644 h 24.819 a 1.646,1.646 0 0 1 1.643,1.644 V 86.2 a 1.646,1.646 0 0 1 -1.643,1.642 z M 4.633,70.647 A 0.645,0.645 0 0 0 3.99,71.291 V 86.2 a 0.645,0.645 0 0 0 0.643,0.644 H 29.452 A 0.645,0.645 0 0 0 30.095,86.2 V 71.291 a 0.645,0.645 0 0 0 -0.643,-0.644 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68011-4"
+       data-name="Path 68011"
+       d="m 14.157,92.193 a 0.5,0.5 0 0 1 -0.5,-0.5 v -4.351 a 0.5,0.5 0 0 1 1,0 v 4.351 a 0.5,0.5 0 0 1 -0.5,0.5 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68012-9"
+       data-name="Path 68012"
+       d="m 19.928,92.193 a 0.5,0.5 0 0 1 -0.5,-0.5 v -4.351 a 0.5,0.5 0 0 1 1,0 v 4.351 a 0.5,0.5 0 0 1 -0.5,0.5 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68013-6"
+       data-name="Path 68013"
+       d="M 23.127,92.193 H 10.649 a 0.5,0.5 0 0 1 0,-1 h 12.478 a 0.5,0.5 0 0 1 0,1 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68014-9"
+       data-name="Path 68014"
+       d="M 30.595,74.131 H 3.49 a 0.5,0.5 0 0 1 0,-1 h 27.1 a 0.5,0.5 0 1 1 0,1 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68015-4"
+       data-name="Path 68015"
+       d="M 6.665,71.909"
+       fill="#888888" />
+    <path
+       id="Path_68016-4"
+       data-name="Path 68016"
+       d="M 7.635,71.909"
+       fill="#888888" />
+    <path
+       id="Path_68017-4"
+       data-name="Path 68017"
+       d="M 8.665,71.909"
+       fill="#888888" />
+    <path
+       id="Path_68018-8"
+       data-name="Path 68018"
+       d="M 15.543,83.705 H 5.161 v -7.866 h 10.382 z m -9.382,-1 h 8.382 V 76.839 H 6.161 Z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68019-9"
+       data-name="Path 68019"
+       d="m 27.02,77.335 h -9.714 a 0.5,0.5 0 1 1 0,-1 h 9.714 a 0.5,0.5 0 1 1 0,1 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68020-0"
+       data-name="Path 68020"
+       d="m 27.02,80.437 h -9.714 a 0.5,0.5 0 1 1 0,-1 h 9.714 a 0.5,0.5 0 1 1 0,1 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+    <path
+       id="Path_68021-2"
+       data-name="Path 68021"
+       d="m 27.02,83.705 h -9.714 a 0.5,0.5 0 1 1 0,-1 h 9.714 a 0.5,0.5 0 1 1 0,1 z"
+       fill="#888888"
+       style="fill:#ee6a05;fill-opacity:1" />
+  </g>
+</svg>

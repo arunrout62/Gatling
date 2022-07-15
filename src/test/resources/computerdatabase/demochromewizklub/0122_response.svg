@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7542" data-name="Rectangle 7542" width="32" height="32" transform="translate(49 14)" fill="#49cb79"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_28" data-name="Mask Group 28" transform="translate(-49 -14)" clip-path="url(#clip-path)">
+    <g id="Group_13632" data-name="Group 13632" transform="translate(49.519 16.511)">
+      <g id="Group_13631" data-name="Group 13631" transform="translate(0 0)">
+        <g id="Group_13631-2" data-name="Group 13631-2" transform="translate(0 8.229)">
+          <path id="Path_24128" data-name="Path 24128" d="M4.241,19.748v4.981A4.068,4.068,0,0,0,8.33,28.776H24.289a4.068,4.068,0,0,0,4.078-4.047V19.748" transform="translate(-0.755 -10.025)" fill="#029abb" stroke="#fff" stroke-width="0.973"/>
+          <path id="Path_24129" data-name="Path 24129" d="M28.367,20.7V14.68a4.068,4.068,0,0,0-4.088-4.047H8.32A4.068,4.068,0,0,0,4.241,14.68V20.7" transform="translate(-0.755 -10.633)" fill="#029abb" stroke="#fff" stroke-width="0.973"/>
+          <path id="Path_24130" data-name="Path 24130" d="M.973,19.675A3.476,3.476,0,0,0,4.459,23.1V16.178a3.466,3.466,0,0,0-3.487,3.5Z" transform="translate(-0.973 -10.263)" fill="#029abb" stroke="#fff" stroke-width="0.973"/>
+          <path id="Path_24131" data-name="Path 24131" d="M26.86,16.178V23.1a3.466,3.466,0,0,0,.125-6.921Z" transform="translate(0.753 -10.263)" fill="#029abb" stroke="#fff" stroke-width="0.973"/>
+        </g>
+        <ellipse id="Ellipse_4135" data-name="Ellipse 4135" cx="2.075" cy="2.055" rx="2.075" ry="2.055" transform="translate(13.594)" fill="#029abb" stroke="#fff" stroke-width="0.973"/>
+        <line id="Line_193" data-name="Line 193" y1="3.954" transform="translate(15.669 4.317)" fill="none" stroke="#fff" stroke-width="0.973"/>
+        <ellipse id="Ellipse_4136" data-name="Ellipse 4136" cx="1.972" cy="1.961" rx="1.972" ry="1.961" transform="translate(7.938 12.753)" fill="none" stroke="#fff" stroke-width="0.973"/>
+        <ellipse id="Ellipse_4137" data-name="Ellipse 4137" cx="1.972" cy="1.961" rx="1.972" ry="1.961" transform="translate(19.508 12.753)" fill="none" stroke="#fff" stroke-width="0.973"/>
+        <rect id="Rectangle_6734" data-name="Rectangle 6734" width="5.23" height="1.982" transform="translate(13.054 20.473)" fill="none" stroke="#fff" stroke-width="0.973"/>
+      </g>
+    </g>
+  </g>
+</svg>
